@@ -1,3 +1,4 @@
 .gitignore 
 Data/Train/*
 Data/Test/*
+Data/db/*
